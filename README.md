@@ -1,4 +1,5 @@
-Understanding APIs
+◽ Understanding APIs
+
 A beginner-friendly guide to understanding what APIs are, how they work, and where they are used.
 
 📌 What is an API?
